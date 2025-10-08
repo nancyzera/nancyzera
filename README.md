@@ -4,10 +4,9 @@ Welcome to my GitHub profile. I am a passionate software developer dedicated to 
 
 
 
- 📚 Education
-
- Student at **SOS Technical High School**  
+ 📚 Education 
  Focused on Software Development  
+ and expect deplom soon
 
 
 
