@@ -58,4 +58,4 @@ Welcome to my GitHub profile. I am a passionate software developer dedicated to 
 
 
 Thank you for visiting my profile!  
-Feel free to explore my repositories and reach out if you want to collaborate or say hi. 😊      modify this and remove about my highschool ,add more graphs and skills
+Feel free to explore my repositories and reach out if you want to collaborate or say hi. 😊
