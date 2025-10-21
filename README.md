@@ -14,7 +14,8 @@ Welcome to my GitHub profile. I am a passionate software developer dedicated to 
 
  Attended multiple tech camps focused on web development and programming  
  Earned certificates in Web Development, Python, and IT skills  
- Currently developing projects and enhancing skills in full-stack development  
+ Currently developing projects and enhancing skills in full-stack development   
+ 
 
 
 
@@ -57,5 +58,5 @@ Welcome to my GitHub profile. I am a passionate software developer dedicated to 
 -get in touch: https://linktr.ee/KWIZERA_TETA_NANCY
 
 
-Thank you for visiting my profile!  
+Thank you for visiting my profile!!  
 Feel free to explore my repositories and reach out if you want to collaborate or say hi. 😊
