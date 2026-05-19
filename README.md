@@ -21,7 +21,7 @@ I am a software developer from Rwanda with a passion for building **AI-powered s
 I create tools that combine **innovation, technology, and real-world problem solving**.  
 
 - Founder of a small IT institute supporting rural students to learn coding  
-- Experienced in **AI/ML, Robotics, IoT, and Web Development**  
+- Experienced in **AI/ML, Robotics, IoT, and Python Programming**  
 - Always exploring **new technologies** to build futuristic solutions  
 
 ---
