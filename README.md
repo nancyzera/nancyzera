@@ -170,56 +170,10 @@ open-source ecosystem and bring more builders into tech.
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🎯 Face Recognition Attendance System
-Real-time attendance tracking powered by computer vision, with a live analytics dashboard for admins.
 
-`Python` `OpenCV` `Face Recognition` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Hinga Agritech Platform
-All-in-one platform for farmers — weather forecasts, irrigation guidance, training modules, and a marketplace.
-
-`JavaScript` `Node.js` `IoT`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ♿ Baho Inclusive Tech
-The flagship product of my company — an AI-powered accessibility system for people with disabilities, with voice-to-text, text-to-speech, and IoT integration.
-
-`Python` `Speech Recognition` `IoT`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Adaptive Continuous Teaching AI
-Intelligent, adaptive education platform that personalizes learning paths in real time.
-
-`Python` `NLP` `Machine Learning`
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-</div>
 
 ## 📊 GitHub Analytics
 
